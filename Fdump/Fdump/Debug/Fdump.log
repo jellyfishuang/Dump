@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\desktop\fdump\fdump\source.cpp(269): warning C4244: '=': 將 'long' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fdump\fdump\source.cpp(310): warning C4244: '=': 將 'long' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fdump\fdump\source.cpp(320): warning C4244: '=': 將 'long' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+  Fdump.vcxproj -> C:\Users\user\Desktop\Fdump\Debug\Fdump.exe
